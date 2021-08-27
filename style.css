@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+
+
 :root{
     --primary-color:#0065FC;
     --secondary-color: #DEEBFF;
@@ -223,7 +226,7 @@ aside{
 } */
 
 .card img{
-    width: 250px;
+    width: 230px;
     height: 120px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
