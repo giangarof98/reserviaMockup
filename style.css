@@ -342,6 +342,7 @@ aside{
     display: flex;
     flex-direction: column;
     gap: 25px;
+    margin-right: -20px;
 }
 
 .card-act1{
