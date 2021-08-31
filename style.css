@@ -342,7 +342,7 @@ aside{
     display: flex;
     flex-direction: column;
     gap: 25px;
-    margin-right: -20px;
+    /* margin-right: -10px; */
 }
 
 .card-act1{
@@ -356,7 +356,7 @@ aside{
 
 .card-act1 img{
     height: 380px;
-    width: 250px;
+    width: 260px;
     object-fit: cover;
 
     border-top-left-radius: 20px;
