@@ -328,7 +328,7 @@ aside{
     flex-direction: row;
     justify-content: space-between; 
     margin-top: 20px;
-    gap: 20px;
+    gap: 10px;
     width: 100%;
 }
 
@@ -355,7 +355,7 @@ aside{
 
 .card-act1 img{
     height: 380px;
-    width: 270px;
+    width: 250px;
     object-fit: cover;
 
     border-top-left-radius: 20px;
