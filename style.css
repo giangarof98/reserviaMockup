@@ -231,6 +231,7 @@ aside{
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     object-fit: cover;
+    display: flex;
 }
 
 .cards{
@@ -354,7 +355,7 @@ aside{
 
 .card-act1 img{
     height: 380px;
-    width: 300px;
+    width: 270px;
     object-fit: cover;
 
     border-top-left-radius: 20px;
@@ -373,7 +374,7 @@ aside{
 
 .card-act2 img{
     height: 150px;
-    width: 350px;
+    width: 330px;
     object-fit: cover;
 
     border-top-left-radius: 20px;
@@ -411,7 +412,7 @@ footer{
 
 /* smartphones */
 
-@media screen and (max-width:700px) {
+@media all and (max-width:767px) {
 
     /* navbar */
 
@@ -606,7 +607,7 @@ footer{
 
 /* tablets */
 
-@media screen and (min-width: 700px) and (max-width: 1020px){
+@media all and (min-width: 768px) and (max-width: 1030px){
 
     /* Navbar */
 
@@ -661,6 +662,7 @@ footer{
     /* header */
 
     header{
+        display: flex;
         margin-top: 30px;
         padding: 10px;
     }
