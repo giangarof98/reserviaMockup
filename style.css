@@ -413,7 +413,7 @@ footer{
 
 /* smartphones */
 
-@media all and (max-width:767px) {
+@media all and (max-width:768px) {
 
     /* navbar */
 
@@ -664,6 +664,7 @@ footer{
 
     header{
         display: flex;
+        flex-direction: column;
         margin-top: 30px;
         padding: 10px;
     }
